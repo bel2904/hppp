@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(236, 84, 229);
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color: rgb(216, 105, 133);
+    height: 100px;
+    text-align: center;
+    line-height: 50px;
+    color: #ebc5c5;
+}
+nav{
+    background-color: rgb(144, 236, 144);
+    height: 300px;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+}
+#bel{
+    background-color: rgb(230, 144, 105);
+    height: 300px;
+    color: rgb(160, 197, 117);
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+#isa{
+    background-color: rgb(119, 179, 236);
+    height: 300px;
+    color: rgb(228, 105, 201);
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+#cc{
+    background-color: rgb(207, 240, 91);
+    height: 400px;
+    color: rgb(91, 152, 177);
+    text-align: center;
+}
+footer{
+    clear: both;
+    background-color: rgb(235, 71, 153);
+    height: 100px;
+    color: rgb(235, 34, 158);
+    text-align: center;
+}
